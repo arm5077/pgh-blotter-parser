@@ -1,11 +1,16 @@
-Police Blotter
-=======
+pgh-blotter-parser
+==================
 
-Applications for Open PGH - Code for America Pittsburgh Brigade
+Everyday via cronjob, the application uses python, pdfminer and custom parsing to convert the data here:
 
-Police Blotter uses:
-PoliceBlotter.bat which calls
-policeblotter.php which connects to the Police Web site and downloads yesterdays blotter.pdf
-It then calls a python script that parses the pdf and outputs a txt file.
+ * http://communitysafety.pittsburghpa.gov/Blotter.aspx
 
-From a database stand point a csv output will be the next step
+...into json. It then uses geopy to geocode the locations from google's geocoding API.
+The resulting json is pulled in via javascript and combined with googlemapsv3 to show everything on a map.
+
+ * http://ec2-54-86-57-40.compute-1.amazonaws.com:8000/
+ * http://ec2-54-86-57-40.compute-1.amazonaws.com:8000/test2.html
+
+The entire system is available here:
+
+ * https://github.com/catskul/pgh-blotter-parser.git
