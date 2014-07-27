@@ -1,0 +1,2821 @@
+[{
+    "Age": "",
+    "Description": [
+        "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another"
+    ],
+    "Gender": "",
+    "Incident": "14145055",
+    "Incident Time": "01:00",
+    "Location of Occurrence": "300 block E North Ave",
+    "Neighborhood": "Allegheny Center",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3304(a)(5)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East North Avenue, Pittsburgh, PA 15212, USA",
+        "lat": 40.4563377,
+        "lng": -80.00208769999999,
+        "query": "300 block E North Ave,Allegheny Center, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Reckless Driving",
+        "Accidents Involving Damage to Unattended Veh.or Prop.",
+        "DUI - General Impairment",
+        "DUI - Highest Rate of Alcohol - BAC >= .16%"
+    ],
+    "Gender": "",
+    "Incident": "14145166",
+    "Incident Time": "07:00",
+    "Location of Occurrence": "100 block Rhine Pl",
+    "Neighborhood": "Spring Hill-City View",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3736",
+        "3745",
+        "3802(a)(1)",
+        "3802(c)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "100 Rhine Place, Pittsburgh, PA 15212, USA",
+        "lat": 40.4670214,
+        "lng": -79.9937027,
+        "query": "100 block Rhine Pl,Spring Hill-City View, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "25",
+    "Description": [
+        "Reckless Driving",
+        "Accidents Involving Damage to Unattended Veh.or Prop.",
+        "DUI - General Impairment",
+        "DUI - Highest Rate of Alcohol - BAC >= .16%"
+    ],
+    "Gender": "F",
+    "Incident": "14145166",
+    "Incident Time": "07:00",
+    "Location of Occurrence": "100 block Rhine Pl",
+    "Neighborhood": "Spring Hill-City View",
+    "Report Name": "ARREST",
+    "Section": [
+        "3736",
+        "3745",
+        "3802(a)(1)",
+        "3802(c)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "100 Rhine Place, Pittsburgh, PA 15212, USA",
+        "lat": 40.4670214,
+        "lng": -79.9937027,
+        "query": "100 block Rhine Pl,Spring Hill-City View, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment."
+    ],
+    "Gender": "",
+    "Incident": "14145309",
+    "Incident Time": "10:00",
+    "Location of Occurrence": "1200 block Butterfield Way",
+    "Neighborhood": "Central Northside",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1200 Butterfield Way, Pittsburgh, PA 15212, USA",
+        "lat": 40.455802,
+        "lng": -80.0082509,
+        "query": "1200 block Butterfield Way,Central Northside, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "",
+    "Incident": "14145248",
+    "Incident Time": "10:00",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "54",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "M",
+    "Incident": "14145248",
+    "Incident Time": "10:00",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "ARREST",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Burglary."
+    ],
+    "Gender": "",
+    "Incident": "14145237",
+    "Incident Time": "10:15",
+    "Location of Occurrence": "1900 block Beech Ave",
+    "Neighborhood": "Troy Hill-Herrs Island",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3502"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1900 Beech Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4810587,
+        "lng": -79.9990609,
+        "query": "1900 block Beech Ave,Troy Hill-Herrs Island, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment by Physical Contact, or Attempts or Threats"
+    ],
+    "Gender": "",
+    "Incident": "14145258",
+    "Incident Time": "10:15",
+    "Location of Occurrence": "1400 block Benton Ave",
+    "Neighborhood": "Brighton Heights",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)(1)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1400 Benton Avenue, Pittsburgh, PA 15212, USA",
+        "lat": 40.4843328,
+        "lng": -80.0369697,
+        "query": "1400 block Benton Ave,Brighton Heights, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "70",
+    "Description": [
+        "Patronizing a Prostitute"
+    ],
+    "Gender": "M",
+    "Incident": "14145260",
+    "Incident Time": "10:25",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "ARREST",
+    "Section": [
+        "5902(e)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "",
+    "Incident": "14145260",
+    "Incident Time": "10:25",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "",
+    "Incident": "14145265",
+    "Incident Time": "10:30",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "37",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "M",
+    "Incident": "14145265",
+    "Incident Time": "10:30",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "ARREST",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "67",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "M",
+    "Incident": "14145278",
+    "Incident Time": "11:05",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "ARREST",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "",
+    "Incident": "14145278",
+    "Incident Time": "11:10",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment."
+    ],
+    "Gender": "",
+    "Incident": "14145284",
+    "Incident Time": "11:15",
+    "Location of Occurrence": "1700 block Letche Ave",
+    "Neighborhood": "Fineview",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1700 Letsche Street, Pittsburgh, PA 15214, USA",
+        "lat": 40.4626148,
+        "lng": -80.008287,
+        "query": "1700 block Letche Ave,Fineview, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "",
+    "Incident": "14145306",
+    "Incident Time": "11:50",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "33",
+    "Description": [
+        "Patronizing a Prostitute",
+        "Criminal Solicitation."
+    ],
+    "Gender": "M",
+    "Incident": "14145306",
+    "Incident Time": "11:50",
+    "Location of Occurrence": "Middle St & Foreland St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "ARREST",
+    "Section": [
+        "5902(e)",
+        "902"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Middle Street & Foreland Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4545638,
+        "lng": -79.9993789,
+        "query": "Middle St & Foreland St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "DEF. TRESPASS ACTUAL COMMUNICATION"
+    ],
+    "Gender": "",
+    "Incident": "14145325",
+    "Incident Time": "12:13",
+    "Location of Occurrence": "100 block Hazlett St",
+    "Neighborhood": "Northview Heights",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3503.B1I"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "100 Hazlett Street, Pittsburgh, PA 15214, USA",
+        "lat": 40.4755513,
+        "lng": -80.0035639,
+        "query": "100 block Hazlett St,Northview Heights, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "24",
+    "Description": [
+        "DEF. TRESPASS ACTUAL COMMUNICATION"
+    ],
+    "Gender": "M",
+    "Incident": "14145325",
+    "Incident Time": "12:45",
+    "Location of Occurrence": "100 block Hazlett St",
+    "Neighborhood": "Northview Heights",
+    "Report Name": "ARREST",
+    "Section": [
+        "3503.B1I"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "100 Hazlett Street, Pittsburgh, PA 15214, USA",
+        "lat": 40.4755513,
+        "lng": -80.0035639,
+        "query": "100 block Hazlett St,Northview Heights, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "57",
+    "Description": [
+        "Simple Assault.",
+        "Recklessly Endangering Another Person."
+    ],
+    "Gender": "F",
+    "Incident": "14134323",
+    "Incident Time": "13:40",
+    "Location of Occurrence": "3700 block Baytree St",
+    "Neighborhood": "Perry North",
+    "Report Name": "ARREST",
+    "Section": [
+        "2701",
+        "2705"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "3700 Baytree Street, Pittsburgh, PA 15214, USA",
+        "lat": 40.4887743,
+        "lng": -80.0140253,
+        "query": "3700 block Baytree St,Perry North, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Missing Juvenile"
+    ],
+    "Gender": "",
+    "Incident": "14145621",
+    "Incident Time": "15:15",
+    "Location of Occurrence": "3800 block Brighton Rd",
+    "Neighborhood": "Brighton Heights",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "029"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "3800 Brighton Road, Pittsburgh, PA 15212, USA",
+        "lat": 40.4845242,
+        "lng": -80.0356829,
+        "query": "3800 block Brighton Rd,Brighton Heights, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Criminal Mischief."
+    ],
+    "Gender": "",
+    "Incident": "14145564",
+    "Incident Time": "17:15",
+    "Location of Occurrence": "400 block East Commons",
+    "Neighborhood": "Allegheny Center",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3304"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 East Commons, Pittsburgh, PA 15212, USA",
+        "lat": 40.4524226,
+        "lng": -80.00347909999999,
+        "query": "400 block East Commons,Allegheny Center, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Robbery."
+    ],
+    "Gender": "",
+    "Incident": "14145538",
+    "Incident Time": "17:31",
+    "Location of Occurrence": "800 block East St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "800 East Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4548199,
+        "lng": -79.998119,
+        "query": "800 block East St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "24",
+    "Description": [
+        "Robbery."
+    ],
+    "Gender": "M",
+    "Incident": "14145538",
+    "Incident Time": "17:35",
+    "Location of Occurrence": "800 block East St",
+    "Neighborhood": "East Allegheny",
+    "Report Name": "ARREST",
+    "Section": [
+        "3701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "800 East Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4548199,
+        "lng": -79.998119,
+        "query": "800 block East St,East Allegheny, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment."
+    ],
+    "Gender": "",
+    "Incident": "14145563",
+    "Incident Time": "18:00",
+    "Location of Occurrence": "1700 block brighton Rd",
+    "Neighborhood": "California-Kirkbride",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Brighton Road, Pittsburgh, PA, USA",
+        "lat": 40.4699459,
+        "lng": -80.0256268,
+        "query": "1700 block brighton Rd,California-Kirkbride, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "39",
+    "Description": [
+        "Possession of Controlled Substance",
+        "Possession w/ Intent to Del. Controlled Substance",
+        "Tampering with or Fabricating Physical Evidence.",
+        "False Identification to Law Enforcement Authorities",
+        "Bench Warrant"
+    ],
+    "Gender": "M",
+    "Incident": "14145561",
+    "Incident Time": "18:11",
+    "Location of Occurrence": "James St & E North Ave",
+    "Neighborhood": "Central Northside",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(16)",
+        "13(a)(30)",
+        "4910",
+        "4914",
+        "9501"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East North Avenue & James Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4564259,
+        "lng": -80.001573,
+        "query": "James St & E North Ave,Central Northside, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Possession of Controlled Substance"
+    ],
+    "Gender": "",
+    "Incident": "14145561",
+    "Incident Time": "18:11",
+    "Location of Occurrence": "James St & E North Ave",
+    "Neighborhood": "Central Northside",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(16)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East North Avenue & James Street, Pittsburgh, PA 15212, USA",
+        "lat": 40.4564259,
+        "lng": -80.001573,
+        "query": "James St & E North Ave,Central Northside, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "24",
+    "Description": [
+        "Marijuana: Possession Small Amount"
+    ],
+    "Gender": "M",
+    "Incident": "14145636",
+    "Incident Time": "19:17",
+    "Location of Occurrence": "Federal St S & South Commons St",
+    "Neighborhood": "Allegheny Center",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(31)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Allegheny Center, Pittsburgh, PA, USA",
+        "lat": 40.4537856,
+        "lng": -80.0073768,
+        "query": "Federal St S & South Commons St,Allegheny Center, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "",
+    "Description": [
+        "Marijuana: Possession Small Amount"
+    ],
+    "Gender": "",
+    "Incident": "14145636",
+    "Incident Time": "19:20",
+    "Location of Occurrence": "Federal St S & South Commons St",
+    "Neighborhood": "Allegheny Center",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(31)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Allegheny Center, Pittsburgh, PA, USA",
+        "lat": 40.4537856,
+        "lng": -80.0073768,
+        "query": "Federal St S & South Commons St,Allegheny Center, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": "23",
+    "Description": [
+        "Possession of Controlled Substance",
+        "Possession w/ Intent to Del. Controlled Substance",
+        "Tampering with or Fabricating Physical Evidence."
+    ],
+    "Gender": "M",
+    "Incident": "14145687",
+    "Incident Time": "20:30",
+    "Location of Occurrence": "3100 block Shadeland Ave",
+    "Neighborhood": "Marshall-Shadeland",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(16)",
+        "13(a)(30)",
+        "4910"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Shadeland Avenue, Pittsburgh, PA 15212, USA",
+        "lat": 40.4752062,
+        "lng": -80.0321232,
+        "query": "3100 block Shadeland Ave,Marshall-Shadeland, Pittsburgh, PA"
+    },
+    "zone": "1"
+},
+{
+    "Age": [
+        "13(a)(16)",
+        "4910"
+    ],
+    "Description": [],
+    "Gender": "",
+    "Incident": "14145687",
+    "Incident Time": "20:30",
+    "Location of Occurrence": "3100 block Shadeland Ave",
+    "Neighborhood": "Marshall-Shadeland",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "Possession of Controlled Substance",
+        "Tampering with or Fabricating Physical Evidence."
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Shadeland Avenue, Pittsburgh, PA 15212, USA",
+        "lat": 40.4752062,
+        "lng": -80.0321232,
+        "query": "3100 block Shadeland Ave,Marshall-Shadeland, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145153",
+    "Incident Time": "05:38",
+    "Location of Occurrence": "2500 block Liberty Ave",
+    "Neighborhood": "Strip District",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2500 Liberty Avenue, Pittsburgh, PA 15222, USA",
+        "lat": 40.452315,
+        "lng": -79.98000499999999,
+        "query": "2500 block Liberty Ave,Strip District, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Damage to Attended Veh. or Property"
+    ],
+    "Gender": "",
+    "Incident": "14145204",
+    "Incident Time": "08:25",
+    "Location of Occurrence": "1600 block Liberty Ave",
+    "Neighborhood": "Strip District",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3743"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1600 Liberty Avenue, Pittsburgh, PA 15222, USA",
+        "lat": 40.4488248,
+        "lng": -79.9864119,
+        "query": "1600 block Liberty Ave,Strip District, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment by Physical Contact, or Attempts or Threats"
+    ],
+    "Gender": "",
+    "Incident": "14145221",
+    "Incident Time": "08:45",
+    "Location of Occurrence": "11th St & Penn Ave",
+    "Neighborhood": "Golden Triangle/CivicArena",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)(1)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Penn Avenue & 11th Street, Pittsburgh, PA 15222, USA",
+        "lat": 40.4449179,
+        "lng": -79.9937547,
+        "query": "11th St & Penn Ave,downtown, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition - Movable item"
+    ],
+    "Gender": "",
+    "Incident": "14145303",
+    "Incident Time": "11:40",
+    "Location of Occurrence": "400 block Wood St",
+    "Neighborhood": "Golden Triangle/CivicArena",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 Wood Street, Pittsburgh, PA 15222, USA",
+        "lat": 40.4393614,
+        "lng": -80.0012669,
+        "query": "400 block Wood St,downtown, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Damage to Unattended Veh.or Prop."
+    ],
+    "Gender": "",
+    "Incident": "14145355",
+    "Incident Time": "12:30",
+    "Location of Occurrence": "1800 block Centre Ave",
+    "Neighborhood": "Crawford-Roberts",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3745"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1800 Centre Avenue, Pittsburgh, PA 15219, USA",
+        "lat": 40.442053,
+        "lng": -79.982989,
+        "query": "1800 block Centre Ave,Crawford-Roberts, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "27",
+    "Description": [
+        "Harassment Communicates Prohibited Acts",
+        "Stalking Conduct or Repeatedly Acts Including Follows"
+    ],
+    "Gender": "M",
+    "Incident": "14092435",
+    "Incident Time": "13:35",
+    "Location of Occurrence": "900 block sECOND Ave",
+    "Neighborhood": "Bluff",
+    "Report Name": "ARREST",
+    "Section": [
+        "2709(a)(4)",
+        "2709.1"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Second Avenue, Pittsburgh, PA, USA",
+        "lat": 40.4272357,
+        "lng": -79.9549965,
+        "query": "900 block sECOND Ave,Bluff, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment by Physical Contact, or Attempts or Threats"
+    ],
+    "Gender": "",
+    "Incident": "14145408",
+    "Incident Time": "14:00",
+    "Location of Occurrence": "200 block Forbes Ave",
+    "Neighborhood": "Golden Triangle/CivicArena",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)(1)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "200 Forbes Avenue, Pittsburgh, PA 15222, USA",
+        "lat": 40.4405868,
+        "lng": -80.0021963,
+        "query": "200 block Forbes Ave,downtown, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Burglary.",
+        "Theft by Unlawful Taking or Disposition - Movable item"
+    ],
+    "Gender": "",
+    "Incident": "14145477",
+    "Incident Time": "14:35",
+    "Location of Occurrence": "3100 block Ewart Dr",
+    "Neighborhood": "Upper Hill",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3502",
+        "3921(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "3100 Ewart Drive, Pittsburgh, PA 15219, USA",
+        "lat": 40.4487797,
+        "lng": -79.9615652,
+        "query": "3100 block Ewart Dr,Upper Hill, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "39",
+    "Description": [
+        "Marijuana: Possession Small Amount"
+    ],
+    "Gender": "M",
+    "Incident": "14145578",
+    "Incident Time": "16:22",
+    "Location of Occurrence": "400 block 52nd St",
+    "Neighborhood": "Upper Lawrenceville",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(31)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 52nd Street, Pittsburgh, PA 15201, USA",
+        "lat": 40.4798206,
+        "lng": -79.953649,
+        "query": "400 block 52nd St,Upper Lawrenceville, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Marijuana: Possession Small Amount",
+        "Paraphernalia - Use or Possession"
+    ],
+    "Gender": "",
+    "Incident": "14145578",
+    "Incident Time": "16:22",
+    "Location of Occurrence": "400 block 52nd St",
+    "Neighborhood": "Upper Lawrenceville",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(31)",
+        "13(a)(32)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 52nd Street, Pittsburgh, PA 15201, USA",
+        "lat": 40.4798206,
+        "lng": -79.953649,
+        "query": "400 block 52nd St,Upper Lawrenceville, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "29",
+    "Description": [
+        "Simple Assault."
+    ],
+    "Gender": "M",
+    "Incident": "13257914",
+    "Incident Time": "18:50",
+    "Location of Occurrence": "900 block Second Ave",
+    "Neighborhood": "Point Breeze North",
+    "Report Name": "ARREST",
+    "Section": [
+        "2701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "900 Second Avenue, Pittsburgh, PA 15207, USA",
+        "lat": 40.4237922,
+        "lng": -79.95216959999999,
+        "query": "900 block Second Ave,Point Breeze North, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "",
+    "Description": [
+        "Retail Theft."
+    ],
+    "Gender": "",
+    "Incident": "14145628",
+    "Incident Time": "19:00",
+    "Location of Occurrence": "400 block 5th Ave",
+    "Neighborhood": "Golden Triangle/CivicArena",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3929"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 Fifth Avenue, Pittsburgh, PA 15219, USA",
+        "lat": 40.4395271,
+        "lng": -79.9981821,
+        "query": "400 block 5th Ave,downtown, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "18",
+    "Description": [
+        "Retail Theft."
+    ],
+    "Gender": "F",
+    "Incident": "14145628",
+    "Incident Time": "19:15",
+    "Location of Occurrence": "400 block 5th Ave",
+    "Neighborhood": "Golden Triangle/CivicArena",
+    "Report Name": "ARREST",
+    "Section": [
+        "3929"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 Fifth Avenue, Pittsburgh, PA 15219, USA",
+        "lat": 40.4395271,
+        "lng": -79.9981821,
+        "query": "400 block 5th Ave,downtown, Pittsburgh, PA"
+    },
+    "zone": "2"
+},
+{
+    "Age": "28",
+    "Description": [
+        "Paraphernalia - Use or Possession"
+    ],
+    "Gender": "M",
+    "Incident": "14145118",
+    "Incident Time": "03:40",
+    "Location of Occurrence": "ALLEN St & E WARRINGTON Ave",
+    "Neighborhood": "Allentown",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(32)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East Warrington Avenue & Allen Street, Pittsburgh, PA 15210, USA",
+        "lat": 40.4217935,
+        "lng": -79.9937597,
+        "query": "ALLEN St & E WARRINGTON Ave,Allentown, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Paraphernalia - Use or Possession"
+    ],
+    "Gender": "",
+    "Incident": "14145118",
+    "Incident Time": "03:40",
+    "Location of Occurrence": "ALLEN St & E WARRINGTON Ave",
+    "Neighborhood": "Allentown",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(32)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East Warrington Avenue & Allen Street, Pittsburgh, PA 15210, USA",
+        "lat": 40.4217935,
+        "lng": -79.9937597,
+        "query": "ALLEN St & E WARRINGTON Ave,Allentown, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Criminal Mischief."
+    ],
+    "Gender": "",
+    "Incident": "14145202",
+    "Incident Time": "06:45",
+    "Location of Occurrence": "2400 block Brownsville Rd",
+    "Neighborhood": "Carrick",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3304"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2400 Brownsville Road, Pittsburgh, PA 15210, USA",
+        "lat": 40.386895,
+        "lng": -79.983508,
+        "query": "2400 block Brownsville Rd,Carrick, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition."
+    ],
+    "Gender": "",
+    "Incident": "14145232",
+    "Incident Time": "06:50",
+    "Location of Occurrence": "3100 block Mary St",
+    "Neighborhood": "South Side Slopes",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "3100 Mary Street, Pittsburgh, PA 15203, USA",
+        "lat": 40.4220329,
+        "lng": -79.9647028,
+        "query": "3100 block Mary St,South Side Slopes, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition."
+    ],
+    "Gender": "",
+    "Incident": "14145213",
+    "Incident Time": "08:00",
+    "Location of Occurrence": "2200 block Arlington Ave",
+    "Neighborhood": "South Side Slopes",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Arlington Avenue, Pittsburgh, PA, USA",
+        "lat": 40.41798130000001,
+        "lng": -79.9790177,
+        "query": "2200 block Arlington Ave,South Side Slopes, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Missing Juvenile"
+    ],
+    "Gender": "",
+    "Incident": "14145365",
+    "Incident Time": "08:15",
+    "Location of Occurrence": "800 block Industry St",
+    "Neighborhood": "Allentown",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "029"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "800 Industry Street, Pittsburgh, PA 15210, USA",
+        "lat": 40.4208061,
+        "lng": -79.99371049999999,
+        "query": "800 block Industry St,Allentown, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition."
+    ],
+    "Gender": "",
+    "Incident": "14145439",
+    "Incident Time": "10:00",
+    "Location of Occurrence": "1700 block South Shore Ct",
+    "Neighborhood": "South Side Flats",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "South Shore Court, Pittsburgh, PA 15203, USA",
+        "lat": 40.4316821,
+        "lng": -79.980673,
+        "query": "1700 block South Shore Ct,South Side Flats, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "29",
+    "Description": [
+        "Driving While Operating Privilege is Suspended or Revoked.",
+        "False Identification to Law Enforcement Authorities"
+    ],
+    "Gender": "M",
+    "Incident": "14137310",
+    "Incident Time": "11:40",
+    "Location of Occurrence": "400 block Overbrook Blvd",
+    "Neighborhood": "Golden Triangle/CivicArena",
+    "Report Name": "ARREST",
+    "Section": [
+        "1543",
+        "4914"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "400 Overbrook Boulevard, Pittsburgh, PA 15210, USA",
+        "lat": 40.386775,
+        "lng": -79.989927,
+        "query": "400 block Overbrook Blvd,downtown, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Driving While Operating Privilege is Suspended or Revoked.",
+        "Careless Driving",
+        "DUI - Drug - Impaired Ability",
+        "Operation of Vehicle without Official Certif. of Inspection"
+    ],
+    "Gender": "",
+    "Incident": "14145302",
+    "Incident Time": "12:05",
+    "Location of Occurrence": "Taft Ave & Climax St",
+    "Neighborhood": "Beltzhoover",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "1543",
+        "3714",
+        "3802(d)(2)",
+        "4703"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Climax Street & Taft Avenue, Pittsburgh, PA 15210, USA",
+        "lat": 40.4183339,
+        "lng": -80.00832779999999,
+        "query": "Taft Ave & Climax St,Beltzhoover, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "21",
+    "Description": [
+        "Driving While Operating Privilege is Suspended or Revoked.",
+        "Careless Driving",
+        "DUI - Drug - Impaired Ability",
+        "Operation of Vehicle without Official Certif. of Inspection"
+    ],
+    "Gender": "M",
+    "Incident": "14145302",
+    "Incident Time": "12:12",
+    "Location of Occurrence": "Taft Ave & Climax St",
+    "Neighborhood": "Beltzhoover",
+    "Report Name": "ARREST",
+    "Section": [
+        "1543",
+        "3714",
+        "3802(d)(2)",
+        "4703"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Climax Street & Taft Avenue, Pittsburgh, PA 15210, USA",
+        "lat": 40.4183339,
+        "lng": -80.00832779999999,
+        "query": "Taft Ave & Climax St,Beltzhoover, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Found Property"
+    ],
+    "Gender": "",
+    "Incident": "14145310",
+    "Incident Time": "12:15",
+    "Location of Occurrence": "200 block Parkfield St",
+    "Neighborhood": "Carrick",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9489"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "200 Parkfield Street, Pittsburgh, PA 15210, USA",
+        "lat": 40.392022,
+        "lng": -79.99032299999999,
+        "query": "200 block Parkfield St,Carrick, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "25",
+    "Description": [
+        "Robbery."
+    ],
+    "Gender": "M",
+    "Incident": "14138984",
+    "Incident Time": "12:45",
+    "Location of Occurrence": "2200 block Arlington Ave",
+    "Neighborhood": "South Side Slopes",
+    "Report Name": "ARREST",
+    "Section": [
+        "3701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Arlington Avenue, Pittsburgh, PA, USA",
+        "lat": 40.41798130000001,
+        "lng": -79.9790177,
+        "query": "2200 block Arlington Ave,South Side Slopes, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "9999 - (Misc. Incident):"
+    ],
+    "Gender": "",
+    "Incident": "14145620",
+    "Incident Time": "13:00",
+    "Location of Occurrence": "2600 block Brownsville Rd",
+    "Neighborhood": "Carrick",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9999"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2600 Brownsville Road, Pittsburgh, PA 15227, USA",
+        "lat": 40.3854309,
+        "lng": -79.978824,
+        "query": "2600 block Brownsville Rd,Carrick, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition.",
+        "Theft by Deception."
+    ],
+    "Gender": "",
+    "Incident": "14145467",
+    "Incident Time": "16:01",
+    "Location of Occurrence": "300 block La Belle St",
+    "Neighborhood": "Mount Washington",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921",
+        "3922"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "300 Labelle Street, Pittsburgh, PA 15211, USA",
+        "lat": 40.433142,
+        "lng": -80.01658599999999,
+        "query": "300 block La Belle St,Mount Washington, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "19",
+    "Description": [
+        "Marijuana: Possession Small Amount",
+        "General Lighting Requirements."
+    ],
+    "Gender": "M",
+    "Incident": "14145615",
+    "Incident Time": "19:16",
+    "Location of Occurrence": "E Warrington Ave & Beltzhoover Ave",
+    "Neighborhood": "Allentown",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(31)",
+        "4303"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East Warrington Avenue & Beltzhoover Avenue, Pittsburgh, PA 15210, USA",
+        "lat": 40.4216448,
+        "lng": -79.9974076,
+        "query": "E Warrington Ave & Beltzhoover Ave,Allentown, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "",
+    "Description": [
+        "Marijuana: Possession Small Amount",
+        "General Lighting Requirements."
+    ],
+    "Gender": "",
+    "Incident": "14145615",
+    "Incident Time": "19:16",
+    "Location of Occurrence": "E Warrington Ave & Beltzhoover Ave",
+    "Neighborhood": "Allentown",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(31)",
+        "4303"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "East Warrington Avenue & Beltzhoover Avenue, Pittsburgh, PA 15210, USA",
+        "lat": 40.4216448,
+        "lng": -79.9974076,
+        "query": "E Warrington Ave & Beltzhoover Ave,Allentown, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "31",
+    "Description": [
+        "Simple Assault."
+    ],
+    "Gender": "F",
+    "Incident": "14142377",
+    "Incident Time": "20:30",
+    "Location of Occurrence": "300 block Virginia Ave",
+    "Neighborhood": "Mount Washington",
+    "Report Name": "ARREST",
+    "Section": [
+        "2701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "300 Virginia Avenue, Pittsburgh, PA 15211, USA",
+        "lat": 40.431398,
+        "lng": -80.010859,
+        "query": "300 block Virginia Ave,Mount Washington, Pittsburgh, PA"
+    },
+    "zone": "3"
+},
+{
+    "Age": "4",
+    "Description": [
+        "9999 - (Misc. Incident):"
+    ],
+    "Gender": "",
+    "Incident": "14145158",
+    "Incident Time": "05:46",
+    "Location of Occurrence": "6600 block Dalzell Pl",
+    "Neighborhood": "Squirrel Hill North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9999"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "6600 Dalzell Place, Pittsburgh, PA 15217, USA",
+        "lat": 40.441557,
+        "lng": -79.914512,
+        "query": "6600 block Dalzell Pl,Squirrel Hill North, Pittsburgh, PA"
+    },
+    "zone": ""
+},
+{
+    "Age": "",
+    "Description": [
+        "Paraphernalia - Use or Possession",
+        "Prostitution",
+        "Prostitution - Loitering for purpose of"
+    ],
+    "Gender": "",
+    "Incident": "14145167",
+    "Incident Time": "06:50",
+    "Location of Occurrence": "7400 block Meade St",
+    "Neighborhood": "Point Breeze North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(32)",
+        "5902(a)(1)",
+        "5902(a)(2)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7400 Meade Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4487224,
+        "lng": -79.8967342,
+        "query": "7400 block Meade St,Point Breeze North, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "38",
+    "Description": [
+        "Paraphernalia - Use or Possession",
+        "Prostitution",
+        "Prostitution - Loitering for purpose of"
+    ],
+    "Gender": "F",
+    "Incident": "14145167",
+    "Incident Time": "06:50",
+    "Location of Occurrence": "7400 block Meade St",
+    "Neighborhood": "Point Breeze North",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(32)",
+        "5902(a)(1)",
+        "5902(a)(2)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7400 Meade Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4487224,
+        "lng": -79.8967342,
+        "query": "7400 block Meade St,Point Breeze North, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Marijuana: Possession Small Amount"
+    ],
+    "Gender": "",
+    "Incident": "14145180",
+    "Incident Time": "07:20",
+    "Location of Occurrence": "2000 block De Ruad St",
+    "Neighborhood": "West Oakland",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(31)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2000 De Ruad Street, Pittsburgh, PA 15219, USA",
+        "lat": 40.438621,
+        "lng": -79.9767342,
+        "query": "2000 block De Ruad St,West Oakland, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "34",
+    "Description": [
+        "Marijuana: Possession Small Amount"
+    ],
+    "Gender": "M",
+    "Incident": "14145180",
+    "Incident Time": "07:20",
+    "Location of Occurrence": "2000 block De Ruad St",
+    "Neighborhood": "West Oakland",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(31)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2000 De Ruad Street, Pittsburgh, PA 15219, USA",
+        "lat": 40.438621,
+        "lng": -79.9767342,
+        "query": "2000 block De Ruad St,West Oakland, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition."
+    ],
+    "Gender": "",
+    "Incident": "14145358",
+    "Incident Time": "12:40",
+    "Location of Occurrence": "5700 block Centre Ave",
+    "Neighborhood": "Shadyside",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "5700 Centre Avenue, Pittsburgh, PA 15206, USA",
+        "lat": 40.4571291,
+        "lng": -79.93348639999999,
+        "query": "5700 block Centre Ave,Shadyside, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Burglary."
+    ],
+    "Gender": "",
+    "Incident": "14145376",
+    "Incident Time": "13:50",
+    "Location of Occurrence": "200 block Saline St",
+    "Neighborhood": "Greenfield",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3502"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "200 Saline Street, Pittsburgh, PA 15207, USA",
+        "lat": 40.4269085,
+        "lng": -79.9495132,
+        "query": "200 block Saline St,Greenfield, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Damage to Attended Veh. or Property"
+    ],
+    "Gender": "",
+    "Incident": "14145491",
+    "Incident Time": "16:00",
+    "Location of Occurrence": "Forbes Ave & Atwood St",
+    "Neighborhood": "Central Oakland",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3743"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Forbes Avenue & Atwood Street, Pittsburgh, PA 15213, USA",
+        "lat": 40.4410911,
+        "lng": -79.9576259,
+        "query": "Forbes Ave & Atwood St,Central Oakland, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Damage to Unattended Veh.or Prop."
+    ],
+    "Gender": "",
+    "Incident": "14145588",
+    "Incident Time": "18:00",
+    "Location of Occurrence": "5800 block Ellsworth Ave",
+    "Neighborhood": "Shadyside",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3745"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "5800 Ellsworth Avenue, Pittsburgh, PA 15232, USA",
+        "lat": 40.4560813,
+        "lng": -79.9305684,
+        "query": "5800 block Ellsworth Ave,Shadyside, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Damage to Unattended Veh.or Prop."
+    ],
+    "Gender": "",
+    "Incident": "14145589",
+    "Incident Time": "18:00",
+    "Location of Occurrence": "5800 block Ellsworth Ave",
+    "Neighborhood": "Shadyside",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3745"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "5800 Ellsworth Avenue, Pittsburgh, PA 15232, USA",
+        "lat": 40.4560813,
+        "lng": -79.9305684,
+        "query": "5800 block Ellsworth Ave,Shadyside, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Damage to Unattended Veh.or Prop."
+    ],
+    "Gender": "",
+    "Incident": "14145668",
+    "Incident Time": "19:00",
+    "Location of Occurrence": "S Craig St & Henry St",
+    "Neighborhood": "North Oakland",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3745"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "South Craig Street & Henry Street, Pittsburgh, PA 15213, USA",
+        "lat": 40.4463608,
+        "lng": -79.94892,
+        "query": "S Craig St & Henry St,North Oakland, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "",
+    "Description": [
+        "Simple Assault."
+    ],
+    "Gender": "",
+    "Incident": "14145698",
+    "Incident Time": "21:00",
+    "Location of Occurrence": "5800 block Mifflin Rd",
+    "Neighborhood": "Lincoln Place",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "5800 Mifflin Road, Pittsburgh, PA 15207, USA",
+        "lat": 40.3655484,
+        "lng": -79.9088921,
+        "query": "5800 block Mifflin Rd,Lincoln Place, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "58",
+    "Description": [
+        "Simple Assault."
+    ],
+    "Gender": "M",
+    "Incident": "14145698",
+    "Incident Time": "21:46",
+    "Location of Occurrence": "5800 block Mifflin Rd",
+    "Neighborhood": "Lincoln Place",
+    "Report Name": "ARREST",
+    "Section": [
+        "2701"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "5800 Mifflin Road, Pittsburgh, PA 15207, USA",
+        "lat": 40.3655484,
+        "lng": -79.9088921,
+        "query": "5800 block Mifflin Rd,Lincoln Place, Pittsburgh, PA"
+    },
+    "zone": "4"
+},
+{
+    "Age": "5",
+    "Description": [
+        "Criminal Mischief."
+    ],
+    "Gender": "",
+    "Incident": "14145085",
+    "Incident Time": "02:27",
+    "Location of Occurrence": "7200 block Kelly St",
+    "Neighborhood": "Homewood South",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3304"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7200 Kelly Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4555021,
+        "lng": -79.89701219999999,
+        "query": "7200 block Kelly St,Homewood South, Pittsburgh, PA"
+    },
+    "zone": ""
+},
+{
+    "Age": "",
+    "Description": [
+        "Aided Case"
+    ],
+    "Gender": "",
+    "Incident": "14145109",
+    "Incident Time": "03:15",
+    "Location of Occurrence": "Collier St & Forest Way",
+    "Neighborhood": "Homewood North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9497"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Collier Street & Forest Way, Pittsburgh, PA 15208, USA",
+        "lat": 40.4568173,
+        "lng": -79.8917293,
+        "query": "Collier St & Forest Way,Homewood North, Pittsburgh, PA"
+    },
+    "zone": ""
+},
+{
+    "Age": "",
+    "Description": [
+        "Prostitution - Loitering for purpose of"
+    ],
+    "Gender": "",
+    "Incident": "14145163",
+    "Incident Time": "06:15",
+    "Location of Occurrence": "N Braddock Ave & Hamilton Ave",
+    "Neighborhood": "Highland Park",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5902(a)(2)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Hamilton Avenue & North Braddock Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4531702,
+        "lng": -79.89110640000001,
+        "query": "N Braddock Ave & Hamilton Ave,Highland Park, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "38",
+    "Description": [
+        "Prostitution - Loitering for purpose of"
+    ],
+    "Gender": "F",
+    "Incident": "14145163",
+    "Incident Time": "06:25",
+    "Location of Occurrence": "N Braddock Ave & Hamilton Ave",
+    "Neighborhood": "Highland Park",
+    "Report Name": "ARREST",
+    "Section": [
+        "5902(a)(2)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Hamilton Avenue & North Braddock Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4531702,
+        "lng": -79.89110640000001,
+        "query": "N Braddock Ave & Hamilton Ave,Highland Park, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Paraphernalia - Use or Possession",
+        "Prostitution",
+        "Prostitution - Loitering for purpose of"
+    ],
+    "Gender": "",
+    "Incident": "14145170",
+    "Incident Time": "07:10",
+    "Location of Occurrence": "Mulford St & N Braddock Ave",
+    "Neighborhood": "Homewood South",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(32)",
+        "5902(a)(1)",
+        "5902(a)(2)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "North Braddock Avenue & Mulford Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4526394,
+        "lng": -79.8913098,
+        "query": "Mulford St & N Braddock Ave,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "43",
+    "Description": [
+        "Paraphernalia - Use or Possession",
+        "Prostitution",
+        "Prostitution - Loitering for purpose of"
+    ],
+    "Gender": "F",
+    "Incident": "14145170",
+    "Incident Time": "07:10",
+    "Location of Occurrence": "Mulford St & N Braddock Ave",
+    "Neighborhood": "Homewood South",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(32)",
+        "5902(a)(1)",
+        "5902(a)(2)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "North Braddock Avenue & Mulford Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4526394,
+        "lng": -79.8913098,
+        "query": "Mulford St & N Braddock Ave,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Accidents Involving Death or Personal Injury"
+    ],
+    "Gender": "",
+    "Incident": "14145203",
+    "Incident Time": "08:20",
+    "Location of Occurrence": "Frankstown Ave & N Murtland St",
+    "Neighborhood": "Homewood West",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3742"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Frankstown Avenue & North Murtland Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4584926,
+        "lng": -79.90110539999999,
+        "query": "Frankstown Ave & N Murtland St,Homewood West, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Burglary."
+    ],
+    "Gender": "",
+    "Incident": "14145222",
+    "Incident Time": "08:30",
+    "Location of Occurrence": "7800 block Kelly St",
+    "Neighborhood": "Homewood South",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3502"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7800 Kelly Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.452993,
+        "lng": -79.887158,
+        "query": "7800 block Kelly St,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Drivers Required to be Licensed.",
+        "Theft by Unlawful Taking or Disposition - Movable item",
+        "Receiving Stolen Property.",
+        "Criminal Conspiracy."
+    ],
+    "Gender": "",
+    "Incident": "14144586",
+    "Incident Time": "09:05",
+    "Location of Occurrence": "2200 block East Hills Dr",
+    "Neighborhood": "East Hills",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "1501",
+        "3921(a)",
+        "3925",
+        "903"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2200 East Hills Drive, Pittsburgh, PA 15221, USA",
+        "lat": 40.4545762,
+        "lng": -79.8721338,
+        "query": "2200 block East Hills Dr,East Hills, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "16",
+    "Description": [
+        "Drivers Required to be Licensed.",
+        "Theft by Unlawful Taking or Disposition - Movable item",
+        "Receiving Stolen Property.",
+        "Criminal Conspiracy."
+    ],
+    "Gender": "M",
+    "Incident": "14144586",
+    "Incident Time": "09:23",
+    "Location of Occurrence": "2200 block East Hills Dr",
+    "Neighborhood": "East Hills",
+    "Report Name": "ARREST",
+    "Section": [
+        "1501",
+        "3921(a)",
+        "3925",
+        "903"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2200 East Hills Drive, Pittsburgh, PA 15221, USA",
+        "lat": 40.4545762,
+        "lng": -79.8721338,
+        "query": "2200 block East Hills Dr,East Hills, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "16",
+    "Description": [
+        "1501",
+        "3925",
+        "903"
+    ],
+    "Gender": "M",
+    "Incident": "14144586",
+    "Incident Time": "09:23",
+    "Location of Occurrence": "2200 block East Hills Dr",
+    "Neighborhood": "East Hills",
+    "Report Name": "ARREST",
+    "Section": [],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2200 East Hills Drive, Pittsburgh, PA 15221, USA",
+        "lat": 40.4545762,
+        "lng": -79.8721338,
+        "query": "2200 block East Hills Dr,East Hills, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "59",
+    "Description": [
+        "Retail Theft."
+    ],
+    "Gender": "M",
+    "Incident": "14117806",
+    "Incident Time": "09:40",
+    "Location of Occurrence": "900 block Freeport Rd",
+    "Neighborhood": "Lincoln-Lemington-Belmar",
+    "Report Name": "ARREST",
+    "Section": [
+        "3929"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "900 Freeport Road, Pittsburgh, PA 15238, USA",
+        "lat": 40.486877,
+        "lng": -79.894016,
+        "query": "900 block Freeport Rd,Lincoln-Lemington-Belmar, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft from Vehicle"
+    ],
+    "Gender": "",
+    "Incident": "14145254",
+    "Incident Time": "10:00",
+    "Location of Occurrence": "1300 block Cordova Rd",
+    "Neighborhood": "Highland Park",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3934"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1300 Cordova Road, Pittsburgh, PA 15206, USA",
+        "lat": 40.4786377,
+        "lng": -79.9259721,
+        "query": "1300 block Cordova Rd,Highland Park, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Access Device Fraud"
+    ],
+    "Gender": "",
+    "Incident": "14145316",
+    "Incident Time": "12:00",
+    "Location of Occurrence": "7200 block Mt Vernon St",
+    "Neighborhood": "Homewood North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "4106"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7200 Mount Vernon Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.461162,
+        "lng": -79.89443899999999,
+        "query": "7200 block Mt Vernon St,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Harassment."
+    ],
+    "Gender": "",
+    "Incident": "14145377",
+    "Incident Time": "13:45",
+    "Location of Occurrence": "1100 block Blackadore St",
+    "Neighborhood": "Homewood North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2709(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1100 Blackadore Avenue, Pittsburgh, PA 15221, USA",
+        "lat": 40.459421,
+        "lng": -79.883318,
+        "query": "1100 block Blackadore St,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft from Vehicle"
+    ],
+    "Gender": "",
+    "Incident": "14145453",
+    "Incident Time": "14:30",
+    "Location of Occurrence": "6200 block St Marie St",
+    "Neighborhood": "East Liberty",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3934"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "6200 Saint Marie Street, Pittsburgh, PA 15206, USA",
+        "lat": 40.4679121,
+        "lng": -79.9181093,
+        "query": "6200 block St Marie St,East Liberty, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Access Device Fraud"
+    ],
+    "Gender": "",
+    "Incident": "14145432",
+    "Incident Time": "15:19",
+    "Location of Occurrence": "600 block N Homewood Ave",
+    "Neighborhood": "Homewood South",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "4106"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "600 North Homewood Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4546302,
+        "lng": -79.8974978,
+        "query": "600 block N Homewood Ave,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "17",
+    "Description": [
+        "Aggravated Assault.",
+        "Robbery.",
+        "Possesion of Firearm by Minor",
+        "Criminal Attempt"
+    ],
+    "Gender": "M",
+    "Incident": "14143998",
+    "Incident Time": "15:34",
+    "Location of Occurrence": "1000 block Brushton Ave",
+    "Neighborhood": "Homewood North",
+    "Report Name": "ARREST",
+    "Section": [
+        "2702",
+        "3701",
+        "6110.1",
+        "901"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1000 Brushton Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4565124,
+        "lng": -79.88770579999999,
+        "query": "1000 block Brushton Ave,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Aggravated Assault.",
+        "Robbery.",
+        "Possesion of Firearm by Minor",
+        "Criminal Attempt"
+    ],
+    "Gender": "",
+    "Incident": "14143998",
+    "Incident Time": "15:35",
+    "Location of Occurrence": "1000 block Brushton Ave",
+    "Neighborhood": "Homewood North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2702",
+        "3701",
+        "6110.1",
+        "901"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1000 Brushton Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4565124,
+        "lng": -79.88770579999999,
+        "query": "1000 block Brushton Ave,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Aggravated Assault.",
+        "Resisting Arrest or Other Law Enforcement."
+    ],
+    "Gender": "",
+    "Incident": "14145492",
+    "Incident Time": "16:34",
+    "Location of Occurrence": "7000 block Upland St",
+    "Neighborhood": "Homewood North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2702",
+        "5104"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Upland Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4620697,
+        "lng": -79.8945296,
+        "query": "7000 block Upland St,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "13",
+    "Description": [
+        "Aggravated Assault.",
+        "Resisting Arrest or Other Law Enforcement."
+    ],
+    "Gender": "M",
+    "Incident": "14145492",
+    "Incident Time": "16:40",
+    "Location of Occurrence": "7000 block Upland St",
+    "Neighborhood": "Homewood North",
+    "Report Name": "ARREST",
+    "Section": [
+        "2702",
+        "5104"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Upland Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4620697,
+        "lng": -79.8945296,
+        "query": "7000 block Upland St,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Burglary."
+    ],
+    "Gender": "",
+    "Incident": "14145571",
+    "Incident Time": "16:45",
+    "Location of Occurrence": "700 block N Homewood Ave",
+    "Neighborhood": "Homewood South",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3502"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "700 North Homewood Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.455621,
+        "lng": -79.896671,
+        "query": "700 block N Homewood Ave,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Burglary."
+    ],
+    "Gender": "",
+    "Incident": "14145510",
+    "Incident Time": "16:56",
+    "Location of Occurrence": "200 block S Evaline St",
+    "Neighborhood": "Bloomfield",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3502"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "200 South Evaline Street, Pittsburgh, PA 15224, USA",
+        "lat": 40.4641407,
+        "lng": -79.9412674,
+        "query": "200 block S Evaline St,Bloomfield, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145541",
+    "Incident Time": "17:50",
+    "Location of Occurrence": "500 block Paulson Ave",
+    "Neighborhood": "Larimer",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "500 Paulson Avenue, Pittsburgh, PA 15206, USA",
+        "lat": 40.4632982,
+        "lng": -79.91209889999999,
+        "query": "500 block Paulson Ave,Larimer, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "CRIMINAL MISCHIEF - Intentionally Damages Real Or Personal Property Of Another"
+    ],
+    "Gender": "",
+    "Incident": "14145566",
+    "Incident Time": "18:00",
+    "Location of Occurrence": "2100 block Park Hill Dr",
+    "Neighborhood": "East Hills",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3304(a)(5)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "2100 Park Hill Drive, Pittsburgh, PA 15221, USA",
+        "lat": 40.4545418,
+        "lng": -79.8741914,
+        "query": "2100 block Park Hill Dr,East Hills, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Theft by Unlawful Taking or Disposition - Movable item"
+    ],
+    "Gender": "",
+    "Incident": "14145519",
+    "Incident Time": "18:00",
+    "Location of Occurrence": "Stanton Ave & Sheridan Ave",
+    "Neighborhood": "Highland Park",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3921(a)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Stanton Avenue & Sheridan Avenue, Pittsburgh, PA 15206, USA",
+        "lat": 40.46905479999999,
+        "lng": -79.9187213,
+        "query": "Stanton Ave & Sheridan Ave,Highland Park, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Contraband.",
+        "Bench Warrant"
+    ],
+    "Gender": "",
+    "Incident": "14145623",
+    "Incident Time": "18:23",
+    "Location of Occurrence": "7300 block Hermitage St",
+    "Neighborhood": "Homewood North",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "5123",
+        "9501"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7300 Hermitage Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4596849,
+        "lng": -79.8930285,
+        "query": "7300 block Hermitage St,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "21",
+    "Description": [
+        "Marijuana: Possession Small Amount",
+        "Driving While Operating Privilege is Suspended or Revoked."
+    ],
+    "Gender": "M",
+    "Incident": "14145601",
+    "Incident Time": "18:35",
+    "Location of Occurrence": "4600 block Penn Ave",
+    "Neighborhood": "Bloomfield",
+    "Report Name": "ARREST",
+    "Section": [
+        "13(a)(31)",
+        "1543"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Penn Avenue, Pittsburgh, PA, USA",
+        "lat": 40.4646196,
+        "lng": -79.9400241,
+        "query": "4600 block Penn Ave,Bloomfield, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Marijuana: Possession Small Amount"
+    ],
+    "Gender": "",
+    "Incident": "14145601",
+    "Incident Time": "18:46",
+    "Location of Occurrence": "4600 block Penn Ave",
+    "Neighborhood": "Bloomfield",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "13(a)(31)"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Penn Avenue, Pittsburgh, PA, USA",
+        "lat": 40.4646196,
+        "lng": -79.9400241,
+        "query": "4600 block Penn Ave,Bloomfield, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "35",
+    "Description": [
+        "Contraband.",
+        "Bench Warrant"
+    ],
+    "Gender": "F",
+    "Incident": "14145623",
+    "Incident Time": "19:02",
+    "Location of Occurrence": "7300 block Hermitage St",
+    "Neighborhood": "Homewood North",
+    "Report Name": "ARREST",
+    "Section": [
+        "5123",
+        "9501"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "7300 Hermitage Street, Pittsburgh, PA 15208, USA",
+        "lat": 40.4596849,
+        "lng": -79.8930285,
+        "query": "7300 block Hermitage St,Homewood North, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "9999 - (Misc. Incident):"
+    ],
+    "Gender": "",
+    "Incident": "14145642",
+    "Incident Time": "19:19",
+    "Location of Occurrence": "2200 block Wilner Dr",
+    "Neighborhood": "Larimer",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9999"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Larimer, Pittsburgh, PA, USA",
+        "lat": 40.4642571,
+        "lng": -79.9108744,
+        "query": "2200 block Wilner Dr,Larimer, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Retail Theft.",
+        "Bench Warrant"
+    ],
+    "Gender": "",
+    "Incident": "14145696",
+    "Incident Time": "20:58",
+    "Location of Occurrence": "6200 block Penn Ave",
+    "Neighborhood": "East Liberty",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "3929",
+        "9501"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "6200 Penn Avenue, Pittsburgh, PA 15206, USA",
+        "lat": 40.4606459,
+        "lng": -79.92276439999999,
+        "query": "6200 block Penn Ave,East Liberty, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "35",
+    "Description": [
+        "Retail Theft.",
+        "Bench Warrant"
+    ],
+    "Gender": "M",
+    "Incident": "14145696",
+    "Incident Time": "20:58",
+    "Location of Occurrence": "6200 block Penn Ave",
+    "Neighborhood": "East Liberty",
+    "Report Name": "ARREST",
+    "Section": [
+        "3929",
+        "9501"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "6200 Penn Avenue, Pittsburgh, PA 15206, USA",
+        "lat": 40.4606459,
+        "lng": -79.92276439999999,
+        "query": "6200 block Penn Ave,East Liberty, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Simple Assault.",
+        "Theft by Unlawful Taking or Disposition."
+    ],
+    "Gender": "",
+    "Incident": "14145702",
+    "Incident Time": "21:05",
+    "Location of Occurrence": "600 block N Braddock Ave",
+    "Neighborhood": "Homewood South",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "2701",
+        "3921"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "600 North Braddock Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4531709,
+        "lng": -79.89108689999999,
+        "query": "600 block N Braddock Ave,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "",
+    "Description": [
+        "Missing Persons (18 and Over)"
+    ],
+    "Gender": "",
+    "Incident": "14145717",
+    "Incident Time": "21:25",
+    "Location of Occurrence": "200 block Amber St",
+    "Neighborhood": "East Liberty",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9490"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "200 Amber Street, Pittsburgh, PA 15206, USA",
+        "lat": 40.461839,
+        "lng": -79.930821,
+        "query": "200 block Amber St,East Liberty, Pittsburgh, PA"
+    },
+    "zone": "5"
+},
+{
+    "Age": "36",
+    "Description": [
+        "Simple Assault.",
+        "Theft by Unlawful Taking or Disposition."
+    ],
+    "Gender": "M",
+    "Incident": "14145702",
+    "Incident Time": "21:39",
+    "Location of Occurrence": "600 block N Braddock Ave",
+    "Neighborhood": "Homewood South",
+    "Report Name": "ARREST",
+    "Section": [
+        "2701",
+        "3921"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "600 North Braddock Avenue, Pittsburgh, PA 15208, USA",
+        "lat": 40.4531709,
+        "lng": -79.89108689999999,
+        "query": "600 block N Braddock Ave,Homewood South, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145080",
+    "Incident Time": "02:24",
+    "Location of Occurrence": "2700 block Morange Rd",
+    "Neighborhood": "East Carnegie",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "Morange Road, Pittsburgh, PA 15205, USA",
+        "lat": 40.4236478,
+        "lng": -80.0704181,
+        "query": "2700 block Morange Rd,East Carnegie, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145206",
+    "Incident Time": "08:27",
+    "Location of Occurrence": "700 block Fernhill Ave",
+    "Neighborhood": "Brookline",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "700 Fernhill Avenue, Pittsburgh, PA 15226, USA",
+        "lat": 40.4008773,
+        "lng": -80.0118864,
+        "query": "700 block Fernhill Ave,Brookline, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145208",
+    "Incident Time": "08:33",
+    "Location of Occurrence": "1000 block Ringgold St",
+    "Neighborhood": "Crafton Heights",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1000 Ringgold Street, Pittsburgh, PA 15220, USA",
+        "lat": 40.4436541,
+        "lng": -80.0488663,
+        "query": "1000 block Ringgold St,Crafton Heights, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "9999 - (Misc. Incident):"
+    ],
+    "Gender": "",
+    "Incident": "14145253",
+    "Incident Time": "10:11",
+    "Location of Occurrence": "1000 block Crucible St",
+    "Neighborhood": "Elliott",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9999"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1000 Crucible Street, Pittsburgh, PA 15220, USA",
+        "lat": 40.4432565,
+        "lng": -80.04168349999999,
+        "query": "1000 block Crucible St,Elliott, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "Found Property"
+    ],
+    "Gender": "",
+    "Incident": "14145348",
+    "Incident Time": "12:00",
+    "Location of Occurrence": "3700 block Chartiers Ave",
+    "Neighborhood": "Chartiers City",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9489"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "3700 Chartiers Avenue, Pittsburgh, PA 15204, USA",
+        "lat": 40.4577618,
+        "lng": -80.0727029,
+        "query": "3700 block Chartiers Ave,Chartiers City, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145383",
+    "Incident Time": "14:10",
+    "Location of Occurrence": "700 block Bellaire Ave",
+    "Neighborhood": "Brookline",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "700 Bellaire Avenue, Pittsburgh, PA 15226, USA",
+        "lat": 40.395271,
+        "lng": -80.020877,
+        "query": "700 block Bellaire Ave,Brookline, Pittsburgh, PA"
+    },
+    "zone": "6"
+},
+{
+    "Age": "",
+    "Description": [
+        "False  Burglar Alarm"
+    ],
+    "Gender": "",
+    "Incident": "14145661",
+    "Incident Time": "20:10",
+    "Location of Occurrence": "1300 block Orangewood Ave",
+    "Neighborhood": "Beechview",
+    "Report Name": "OFFENSE 2.0",
+    "Section": [
+        "9488"
+    ],
+    "date": "07/25/2014",
+    "geocode": {
+        "address": "1300 Orangewood Avenue, Pittsburgh, PA 15216, USA",
+        "lat": 40.414041,
+        "lng": -80.01872399999999,
+        "query": "1300 block Orangewood Ave,Beechview, Pittsburgh, PA"
+    },
+    "zone": "6"
+}]

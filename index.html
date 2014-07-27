@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Insert Pittsburgh blotter title here</title>
+		
+		<!-- Leaflet: http://leafletjs.com/ -->
+		<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		
+		<!-- Stamen maps layer: http://maps.stamen.com/#toner/12/37.7706/-122.3782 -->
+		<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
+		
+		<!-- Jquery -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		
+		<!-- Waypoints.js: https://github.com/imakewebthings/jquery-waypoints -->
+		<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.4/waypoints.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/skrollr/0.6.26/skrollr.min.js"></script>
+		<script src="js/scripts.js"></script>
+		
+		<!-- Fontawesome: http://fontawesome.io/ -->
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+		
+		<!-- Markercluster: https://github.com/Leaflet/Leaflet.markercluster -->
+		<script src="//cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+				
+		<!-- jquery.scrollTo: -->
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/1.4.11/jquery.scrollTo.min.js"></script>
+		
+		<!-- Default stylesheet -->
+		<link rel="stylesheet" href="css/styles.css" />
+		
+	</head>
+	
+	<body>
+		<div id="header" class="hidden">
+			<h3>openblotter</h3>
+			<div style="float:right">filtering tools to come here later</div>
+		</div>
+		
+		<div id = "map"></div>
+		
+		<div id = "content" class = "hidden" >
+			<div class = "section" id = "data" data-0 = "margin-top:80px; position: fixed" data-150="margin-top:15px;" data-300="display:block;" data-301="position:relative; margin-top:301px;">
+				<div class = "block">
+					<h4 class = "center uppercase">Total incidents</h4> 
+					<h1 class = "center" id = "total_incidents">421</h1>
+				</div>
+				
+				<div class = "block">
+					<h4 class = "center uppercase" style="margin-top:20px;">Top incidents</h4>
+					<table>
+						<tr>
+							<td><strong>Theft</strong></td>
+							<td>150</td>
+						</tr>
+						<tr>
+							<td><strong>Simple assault</strong></td>
+							<td>87</td>
+						</tr>
+						<tr>
+							<td><strong>Burglary</strong></td>
+							<td>40</td>
+						</tr>
+						<tr>
+							<td><strong>Loitering</strong></td>
+							<td>34</td>
+						</tr>
+						<tr>
+							<td><strong>Aggravated assault</strong></td>
+							<td>22</td>
+						</tr>
+						<tr>
+							<td><strong>Gun offenses</strong></td>
+							<td>13</td>
+						</tr>
+						<tr>
+							<td><strong>Attempted homicide</strong></td>
+							<td>1</td>
+						</tr>
+					</table>
+				</div>
+			
+			
+				<div class = "block" id = "incident_list" style="width:auto">
+					<h4 class = "center uppercase">All incidents</h4> 
+					
+					
+				</div>
+			</div>
+		</div>
+	
+		
+	
+	</body>
+	
+</html>
